@@ -1,5 +1,7 @@
 # Platform Engineering on AWS and Azure
+
 **Overview**
+
 This repository accompanies a hands-on session on Platform Engineering, demonstrating how modern development teams can build scalable, automated, and secure platforms using AWS (EKS) and Azure (AKS). The session blends theoretical understanding with practical implementation to showcase how Platform Engineering bridges the gap between DevOps and Cloud Computing.
 
 **What is Platform Engineerin**g?
@@ -12,35 +14,35 @@ Platform Engineering enhances DevOps by providing the tools and systems that mak
 
 **Key Benefits**
 
-_Automation: _Streamlines provisioning and management of infrastructure.
+Automation: Streamlines provisioning and management of infrastructure.
 
-_Standardization: _Ensures consistent environments across teams.
+Standardization: Ensures consistent environments across teams.
 
-_Efficiency: _Reduces manual tasks and boosts developer productivity.
+Efficiency: Reduces manual tasks and boosts developer productivity.
 
-_Scalability:_ Supports cloud-native applications through Kubernetes orchestration.
+Scalability: Supports cloud-native applications through Kubernetes orchestration.
 
-_Governance:_ Enforces security, compliance, and access control.
+Governance: Enforces security, compliance, and access control.
 
 **Core Components**
 
-_Infrastructure as Code (IaC):_ Automates infrastructure setup using tools like Terraform, CloudFormation, or Bicep.
+Infrastructure as Code (IaC): Automates infrastructure setup using tools like Terraform, CloudFormation, or Bicep.
 
-_Kubernetes & Containers: _Provides scalability, portability, and high availability.
+Kubernetes & Containers: Provides scalability, portability, and high availability.
 
-_CI/CD Pipelines:_ Enables continuous integration and delivery for rapid deployments.
+CI/CD Pipelines: Enables continuous integration and delivery for rapid deployments.
 
-_Monitoring & Observability: _Tools like CloudWatch, Azure Monitor, and Prometheus maintain reliability.
+Monitoring & Observability: Tools like CloudWatch, Azure Monitor, and Prometheus maintain reliability.
 
-_Security & Governance: _Implements IAM, RBAC, and policy enforcement for secure operations.
+Security & Governance: Implements IAM, RBAC, and policy enforcement for secure operations.
 
 **Cloud Implementation**
 
 This session demonstrates Platform Engineering in action using:
 
-_AWS:_ Elastic Kubernetes Service (EKS), CloudFormation, CodePipeline, CloudWatch
+AWS: Elastic Kubernetes Service (EKS), CloudFormation, CodePipeline, CloudWatch
 
-_Azure: _Azure Kubernetes Service (AKS), Azure DevOps, Azure Monitor, Bicep
+Azure: Azure Kubernetes Service (AKS), Azure DevOps, Azure Monitor, Bicep
 
 Participants will learn to deploy a production-grade Kubernetes platform, automate workflows, monitor applications, and ensure scalability across both clouds.
 
